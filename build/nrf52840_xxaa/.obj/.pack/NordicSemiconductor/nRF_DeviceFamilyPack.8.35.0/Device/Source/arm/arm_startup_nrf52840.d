@@ -1,0 +1,1 @@
+.\build\nrf52840_xxaa\.obj\.pack\NordicSemiconductor\nRF_DeviceFamilyPack.8.35.0\Device\Source\arm\arm_startup_nrf52840.o: .\.pack\NordicSemiconductor\nRF_DeviceFamilyPack.8.35.0\Device\Source\arm\arm_startup_nrf52840.s

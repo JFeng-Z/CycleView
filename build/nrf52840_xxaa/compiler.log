@@ -1,0 +1,14 @@
+>>> cc
+
+".\lib\TinyGPSPlus\src\TinyGPS++.cpp", line 79: Warning:  #111-D: statement is unreachable
+      break;
+      ^
+.\lib\TinyGPSPlus\src\TinyGPS++.cpp: 1 warning, 0 errors
+".\middle\tinygps\TinyGPSPlus_link.cpp", line 50: Warning:  #1-D: last line of file ends without a newline
+  }
+   ^
+.\middle\tinygps\TinyGPSPlus_link.cpp: 1 warning, 0 errors
+
+>>> ld
+
+Program Size: Code=120956 RO-data=397736 RW-data=4456 ZI-data=62400  

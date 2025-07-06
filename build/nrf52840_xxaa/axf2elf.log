@@ -1,0 +1,4 @@
+arm-none-eabi-objcopy --update-section ER_IROM1="C:\Users\28342\AppData\Local\Temp\\Cyclocomputer_BLE_Cf0lE3pz.bin" "d:\CycleView_V1\Software\nrf5_sdk_17.1.0_ddde560\examples\CycleView\build\nrf52840_xxaa\Cyclocomputer_BLE.axf" "d:\CycleView_V1\Software\nrf5_sdk_17.1.0_ddde560\examples\CycleView\build\nrf52840_xxaa\Cyclocomputer_BLE.elf"
+
+arm-none-eabi-objcopy: d:\CycleView_V1\Software\nrf5_sdk_17.1.0_ddde560\examples\CycleView\build\nrf52840_xxaa\Cyclocomputer_BLE.elf: warning: allocated section `RW_IRAM1' not in segment
+

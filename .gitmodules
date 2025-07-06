@@ -1,0 +1,12 @@
+[submodule "lib/Arduino-GPX-Library"]
+	path = lib/Arduino-GPX-Library
+	url = https://github.com/JFeng-Z/Arduino-GPX-Library.git
+[submodule "lib/TinyGPSPlus"]
+	path = lib/TinyGPSPlus
+	url = https://github.com/codygray/TinyGPSPlus.git
+[submodule "lib/u8g2"]
+	path = lib/u8g2
+	url = https://github.com/olikraus/u8g2.git
+[submodule "lib/MultiButton"]
+	path = lib/MultiButton
+	url = https://github.com/0x1abin/MultiButton.git

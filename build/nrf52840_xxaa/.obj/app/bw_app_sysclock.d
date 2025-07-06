@@ -1,0 +1,10 @@
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .\app\bw_app_sysclock.c
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .\app\bw_app_sysclock.h
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .pack/NordicSemiconductor/nRF_DeviceFamilyPack.8.35.0/Device/Include/nrf52840.h
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .cmsis/include/core_cm4.h
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .cmsis/include/cmsis_version.h
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .cmsis/include/cmsis_compiler.h
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .cmsis/include/cmsis_armcc.h
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .cmsis/include/mpu_armv7.h
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .pack/NordicSemiconductor/nRF_DeviceFamilyPack.8.35.0/Device/Include/system_nrf52840.h
+.\build\nrf52840_xxaa\.obj\app\bw_app_sysclock.o: .pack/NordicSemiconductor/nRF_DeviceFamilyPack.8.35.0/Device/Include/nrf52840_bitfields.h
